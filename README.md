@@ -3,4 +3,5 @@ Develop an XML parsing facility that reads XML strings or text files, builds a D
 
 *****
 1.click compile.bat (You will need Developer Command Prompt for VS2012+).
+
 2.click run.bat (it will demonstrate functionalities).
